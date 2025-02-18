@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Remix1",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "json-server1",
+      "completed": false
+    },
+    {
+      "id": "08f6",
+      "title": "更新数据后样式会丢失（待对应）",
+      "completed": false
+    }
+  ]
+}
