@@ -1,6 +1,6 @@
 # Remix 项目练习
 内容：
-1.json-server，axios实现简单的CRUD(toDoList)
+1.json-server + axios实现简单的CRUD(toDoList)
 
 ## Development
 
