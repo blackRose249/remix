@@ -1,7 +1,6 @@
 # Remix 项目练习
-已做内容：1.json-server，axios实现简单的CRUD
-
-- 📖 [Remix docs](https://remix.run/docs)
+内容：
+1.json-server，axios实现简单的CRUD(toDoList)
 
 ## Development
 
