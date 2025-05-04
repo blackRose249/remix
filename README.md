@@ -1,5 +1,6 @@
 # Remix Project Replica
 Use the official free version of MUI as the base to create a paid version of the dashboard
+[paid version](https://mui.com/store/previews/minimal-dashboard/)
 
 ## Development
 
