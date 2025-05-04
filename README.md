@@ -1,6 +1,5 @@
-# Remix 项目练习
-内容：
-1.json-server + axios实现简单的CRUD(toDoList)
+# Remix Project Replica
+Use the official free version of MUI as the base to create a paid version of the dashboard
 
 ## Development
 
